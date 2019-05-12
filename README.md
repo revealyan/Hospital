@@ -1,5 +1,8 @@
 # Hospital
-## Python 3.6  
+## MySql 8
+Дамп базы данных вместе находится в папке Hospital/database_dump
+
+## Python 3.6 
 ## Зависимости
 
 Для реализации RESTful сервиса используется фреймворк bottle(0.12.16)  
@@ -56,3 +59,5 @@ python3 app.py --host=localhost --port=5555 --dbhost=localhost --dbport=3306 --d
 # для Windows
 python app.py --host=localhost --port=5555 --dbhost=localhost --dbport=3306 --dbuser=root --dbpass=password1 --dbname=hospital
 ```
+
+
