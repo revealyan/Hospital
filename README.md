@@ -1,6 +1,6 @@
 # Hospital
 ## MySql 8
-Дамп базы данных вместе находится в папке Hospital/database_dump
+Дамп базы данных находится в папке Hospital/database_dump
 
 ## Python 3.6 
 ## Зависимости
